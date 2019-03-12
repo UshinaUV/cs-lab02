@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
+int a , b ;
  cout<< "Enter A and B";
- int a, b;
+ cout<<"A + B = " << a + b << '\n';
  cin>>a>>b;
 }
